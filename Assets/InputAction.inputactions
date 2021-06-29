@@ -1,0 +1,33 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "GameControl",
+            "id": "11611964-8ddf-4f3e-b356-6286d030ea20",
+            "actions": [
+                {
+                    "name": "MousePosition",
+                    "type": "PassThrough",
+                    "id": "1b8e9416-1861-44e3-a64a-18c47b187e70",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4afb7e55-7a1d-4f73-b449-3f5631617cef",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
